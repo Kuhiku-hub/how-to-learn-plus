@@ -1,0 +1,12 @@
+.link-color {
+  text-decoration: none;
+  transition-duration: .5s;
+}
+
+.link-color:hover {
+  color:red;
+}
+.link-color:active {
+  transition-duration: 0ms;
+  color:black;
+}
