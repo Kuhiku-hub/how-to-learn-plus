@@ -1,8 +1,7 @@
 /*Стили и normalize.css */
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__footer/page__footer.css);
-@import url(./vendor/fonts.css);
+@import url(../vendor/fonts.css);
 
 /* Header */
 @import url(../blocks/header/header.css);

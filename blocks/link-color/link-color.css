@@ -2,7 +2,9 @@
   text-decoration: none;
   transition-duration: .5s;
 }
-
+.link-color:hover img {
+  color:red;
+}
 .link-color:hover {
   color:red;
 }
