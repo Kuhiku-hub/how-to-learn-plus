@@ -1,8 +1,10 @@
 .header__title {
-  font-family: 'Inter-Bold', Arial, sans-serif;
-  position:absolute;
-  left:64px;
-  top:16%;
+  margin:0 0 auto auto;
+  font-family: 'Inter', Arial, sans-serif;
+  display:flex;
+  align-items: center;
+  margin-left:64px;
+  height:100%;
   width: 730px;
   font-size: 102px;
   line-height: 96px;

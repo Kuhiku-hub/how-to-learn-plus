@@ -1,10 +1,9 @@
 .two-columns__brief {
-  justify-content: baseline;
   width: 175px;
   min-height:90px;
   margin: 0;
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
-  color: #2e81ed;
+  color: #2f80ed
 }
