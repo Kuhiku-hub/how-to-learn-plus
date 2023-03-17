@@ -1,12 +1,12 @@
 @font-face {
-  font-family:Inter ;
+  font-family:"Inter" ;
   font-weight:normal;
-  src: url(./vendor/lnter/._lnter-Regular.woff) format(woff)
-  url(./vendor/lnter/._lnter-Regular.woff2) format(woff2);
+  src: url(../vendor/Inter/Inter-Regular.woff) format(woff),
+  url(../vendor/Inter/Inter-Regular.woff2) format(woff2);
 }
 @font-face {
-  font-family: Inter;
+  font-family: "Inter";
   font-weight: 600;
-  src: url(./vendor/lnter/._lnter-SemiBold.woff) format(woff)
-  url(./vendor/lnter/._lnter-SemiBold.woff2) format(woff2);
+  src: url(../vendor/Inter/Inter-SemiBold.woff) format(woff),
+  url(../vendor/Inter/Inter-SemiBold.woff2) format(woff2);
 }
